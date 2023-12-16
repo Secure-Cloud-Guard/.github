@@ -7,3 +7,8 @@ The Cloud Guard project addresses the critical issue of data security in cloud s
 Explore our Cloud Guard client solution in action:
 
 [**Cloud Guard client**](https://auth.cloud-guard.app/) 🌐 
+
+## ☁️🛠️ AWS Architecture
+
+![Architecture](https://github.com/Dmytro27Ind/images/blob/main/cloud-guard-aws.png)
+![Legend](https://github.com/Dmytro27Ind/images/blob/main/cloud-guard-aws-legend.png)
