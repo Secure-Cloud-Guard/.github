@@ -10,5 +10,4 @@ Explore our Cloud Guard client solution in action:
 
 ## ☁️🛠️ AWS Architecture
 
-![Architecture](https://github.com/Dmytro27Ind/images/blob/main/cloud-guard-aws-arch.png)
-![Legend](https://github.com/Dmytro27Ind/images/blob/main/cloud-guard-aws-legend.png)
+![Architecture](https://github.com/Dmytro27Ind/images/blob/main/cloud-guard-aws-l.png)
